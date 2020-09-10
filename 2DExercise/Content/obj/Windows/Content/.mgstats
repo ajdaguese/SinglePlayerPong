@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/b1.png","C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/bin/Windows/Content/b1.xnb","TextureProcessor","Texture2DContent",1115,30085,0.1027261
+"C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/ball.png","C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",719,9301,0.0079785
+"C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/colorstrip.png","C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/bin/Windows/Content/colorstrip.xnb","TextureProcessor","Texture2DContent",17932,1109,0.0059843
+"C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/posdisplayfont.spritefont","C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/bin/Windows/Content/posdisplayfont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,267281,0.2603044

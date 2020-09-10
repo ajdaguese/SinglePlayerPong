@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/b1.png</File>
+    <File>C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/ball.png</File>
+    <File>C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/colorstrip.png</File>
+    <File>C:/Users/Alex/source/repos/2DExercise/2DExercise/Content/posdisplayfont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
